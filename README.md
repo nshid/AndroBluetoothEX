@@ -12,7 +12,7 @@ The application is an extension of [AndroBluetooth](https://github.com/lorensius
 
 ## To use
 
-Install the latest version of [Android Studio with SDK](https://developer.android.com/studio/index.html) to open an existing project. Create a new folder "CodeFind" in the [project directory](https://developer.android.com/studio/projects/index.html). Copy all files from this project into this folder. Execute the following commands via Android Studio:
+Install the latest version of [Android Studio with SDK](https://developer.android.com/studio/index.html) to open an existing project. Create a new folder "AndroBluetoothEX" in the [project directory](https://developer.android.com/studio/projects/index.html). Copy all files from this project into this folder. Execute the following commands via Android Studio:
 
 ### Android Studio
 
