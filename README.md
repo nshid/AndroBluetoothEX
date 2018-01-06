@@ -1,10 +1,10 @@
 # AndroBluetoothEX
 This is an Android Bluetooth extensible management application.
 
-![Example Image](https://github.com/nshid/AndroBluetoothEX/images/android_bluetooth_discovery.png) 
-![Example Image](https://github.com/nshid/AndroBluetoothEX/images/android_bluetooth_scanning.png)
-![Example Image](https://github.com/nshid/AndroBluetoothEX/images/android_bluetooth_device_list.png)
-![Example Image](https://github.com/nshid/AndroBluetoothEX/images/android_bluetooth_pair.png)
+![Example Image](https://github.com/nshid/AndroBluetoothEX/blob/master/images/android_bluetooth_discovery.png) 
+![Example Image](https://github.com/nshid/AndroBluetoothEX/blob/master/images/android_bluetooth_scanning.png)
+![Example Image](https://github.com/nshid/AndroBluetoothEX/blob/master/images/android_bluetooth_device_list.png)
+![Example Image](https://github.com/nshid/AndroBluetoothEX/blob/master/images/android_bluetooth_pair.png)
 
 **This application is an extension of AndroBluetooth(https://github.com/lorensiuswlt/AndroBluetooth) created by [Lorensius W. L. T](lorenz@londatiga.net). See http://www.londatiga.net/tag/bluetooth for more information.**
 
