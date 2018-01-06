@@ -6,7 +6,9 @@ This is an Android Bluetooth extensible management application.
 ![Example Image](https://github.com/nshid/AndroBluetoothEX/blob/master/images/android_bluetooth_device_list.png)
 ![Example Image](https://github.com/nshid/AndroBluetoothEX/blob/master/images/android_bluetooth_pair.png)
 
-**This application is an extension of AndroBluetooth(https://github.com/lorensiuswlt/AndroBluetooth) created by [Lorensius W. L. T](lorenz@londatiga.net). See http://www.londatiga.net/tag/bluetooth for more information.**
+The application is an extension of [AndroBluetooth](https://github.com/lorensiuswlt/AndroBluetooth) created by [Lorensius W. L. T](lorenz@londatiga.net). 
+
+**See http://www.londatiga.net/tag/bluetooth for more information.**
 
 ## To use
 
@@ -15,7 +17,7 @@ Install the latest version of [Android Studio with SDK](https://developer.androi
 ### Android Studio
 
 ```
-▪ Open Existing Project: File -> Open -> ..\CodeFind
+▪ Open Existing Project: File -> Open -> ..\AndroBluetoothEX
   
 ▪ Run Application:  Run -> Run 'app'
 
