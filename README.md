@@ -13,7 +13,7 @@ The application is an extension of [AndroBluetooth](https://github.com/lorensius
 ## To use
 
 
-*AndroidBluetoothEX* apk can be downloaded [here](https://github.com/nshid/AndroBluetoothEX/blob/master/app/src/main/apk/com.bazztech.androbluetoothex_v1_0.apk) and installed on Android devices.
+*AndroidBluetoothEX* apk can be downloaded [here](https://github.com/nshid/AndroBluetoothEX/raw/master/app/src/main/apk/com.bazztech.androbluetoothex_v1_0.apk) and installed on Android devices.
 
 OR
 
